@@ -1,6 +1,6 @@
 ## Hi, I'm Felix.
 
-#### About Me:
+#### About Me
 
 - 🎓 CS @ University of Michigan - Ann Arbor
 - 📌 Interests
