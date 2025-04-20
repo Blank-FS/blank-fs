@@ -8,14 +8,15 @@
   - Fullstack Development
   - AI/Machine Learning
 - 📜 [Relevant Coursework @ UMich](https://bulletin.engin.umich.edu/courses/eecs/)
-  - EECS 203 (Discrete Math)
-  - EECS 280 (Programming & Data Structures)
-  - EECS 281 (Data Structures & Algorithms)
-  - EECS 370 (Intro to Computer Organization)
-  - EECS 376 (Foundations of Computer Science)
-  - EECS 445 (Intro to Machine Learning)
-  - EECS 481 (Software Engineering)
-  - EECS 489 (Computer Networks)
+	-   EECS 489 (Computer Networks)
+	-   EECS 481 (Software Engineering)
+	-   EECS 445 (Intro to Machine Learning)
+	-   EECS 376 (Foundations of Computer Science)
+	-   EECS 370 (Intro to Computer Organization)
+	-   EECS 281 (Data Structures & Algorithms)
+	-   EECS 280 (Programming & Data Structures)
+ 	-   EECS 203 (Discrete Math) 
+	-   EECS 201 (Computer Science Pragmatics)
 - 🚀 Technical skills
   - Languages: C/C++, Java, Python, JavaScript/TypeScript, SQL, LaTeX
   - Front-end: HTML, CSS/Tailwind, React/Next.js, Vue.js
